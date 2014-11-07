@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-image",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 3d9c9a8ca071116bf28cfcb5bce2e248e918ff73
   "title": "Semantic UI - Image",
   "description": "Single component release of image",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 3d9c9a8ca071116bf28cfcb5bce2e248e918ff73
   "devDependencies": {}
 }
