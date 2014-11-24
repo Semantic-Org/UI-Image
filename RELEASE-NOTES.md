@@ -1,4 +1,4 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Modal** - Modal ``left`` and ``right`` sections are now replaced with ``image`` and ``description``
 - **Dropdown** - Many new content types now work inside dropdowns, headers, dividers, images, inputs, labels and more
