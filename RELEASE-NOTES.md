@@ -1,3 +1,15 @@
+### Version 1.3.0 - December 17, 2014
+
+- **Image** - UI image now works with SVG
+
+### Version 1.1.0 - December 02, 2014
+
+- **Transition** - Transition now correctly detects missing animations, errors do not cause future image transitions to break
+
+### Version 1.0.1 - November 28, 2014
+
+- **Menu** - Removes missing image loader variable **Thanks ryan-mahoney**
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Modal** - Modal ``left`` and ``right`` sections are now replaced with ``image`` and ``description``
