@@ -1,3 +1,7 @@
+### Version 1.5.0 - December 30, 2014
+
+- **Table** - Table now has coupling with image to make sure size is preserved correctly with table sizing when used inside a table cell.
+
 ### Version 1.3.0 - December 17, 2014
 
 - **Image** - UI image now works with SVG
