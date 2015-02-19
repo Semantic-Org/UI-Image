@@ -1,3 +1,7 @@
+### Version 1.9.2 - February 19, 2015
+
+- **Modal** - Fixes typo causing `middle aligned` image not to work correctly.
+
 ### UI Changes
 
 - **Headers** - Headers can now contain images alongside text, added examples to docs
