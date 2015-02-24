@@ -1,3 +1,7 @@
+### Version 1.10.0 - February 23, 2015
+
+- **Image* - Added `hidden image` state
+
 ### Version 1.9.2 - February 19, 2015
 
 - **Modal** - Fixes typo causing `middle aligned` image not to work correctly.
