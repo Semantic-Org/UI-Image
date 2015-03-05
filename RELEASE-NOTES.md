@@ -1,3 +1,7 @@
+### Version 1.11.0 - March 3, 2015
+
+- **Visibiliity** - Attach callbacks to elements visibility conditions like `top visible` `bottom visible`, `passing`. Useful for things like: image lazy loading, infinite scroll content, and recording tracking metrics.
+
 ### Version 1.10.0 - February 23, 2015
 
 - **Image* - Added `hidden image` state
