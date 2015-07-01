@@ -1,3 +1,17 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Modal** - If you are using a modal with image content, you will need to use `image content` on the parent element. This is because `flex` rules require parent styling that the previous `table-row` rules did not.
+- **Card** - Cards now support multiple custom `content` blocks. Content blocks and images can now appear in any order.
+- **Image** - Images now include a `spaced` variation for adding whitespace around images when used inline with text.
+- **Label** - Label now sets an `img` height even when not using an `image label`
+- **Menu** - Horizontal menus now set a default image size for images / logos
+- **Modal** - Modal content now uses flex, image content now requires `image content` class on parent to allow for flex stylings.
+- **Visibility/Sticky** - Visibility and sticky now refresh automatically after page content loading to deal with changes in position from images loading
+- **Visibility** - Visibility `image` will now wait to lazy load images that are *above* the current screen position, not just below.
+- **Image** - `rounded image` and `circular image` now apply border radius to all child elements, fixing dimmers, and other content rounding
+- **Image** - `avatar image` size has been slightly decreased
+- **Image** - `mini image` default width has been increased to `35px`
+
 ### Version 1.12.0 - April 13, 2015
 
 - **Visibility** - Adds updated visibility module from `2.x` channel. Visibility will automatically refresh by default after images load on page refresh. Fixes issues with element positions after image loading.
