@@ -1,3 +1,7 @@
+### Version 2.0.6 - July 22, 2015
+
+- **List**- Fixed issue where using an image variation like `ui image label` as a direct child of an `item` would remove right padding [#2691](https://github.com/Semantic-Org/Semantic-UI/issues/2691)
+
 ### Version 2.0.1 - July 6, 2015
 
 - **Image** - Fixed `mini image` having wrong pixel size in docs [#2521](https://github.com/Semantic-Org/Semantic-UI/issues/2521)
