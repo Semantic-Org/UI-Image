@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-image',
   summary : 'Semantic UI - Image: Single component release',
-  version : '2.1.7',
+  version : '2.2.0',
   git     : 'git://github.com/Semantic-Org/UI-Image.git',
 });
 

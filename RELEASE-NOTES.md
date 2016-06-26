@@ -1,3 +1,9 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Visibility** - Added `onLoad` and `onAllLoaded` callback for `type: 'image'` visibility
+- **Image** - `transition hidden image` now shows correctly as `visibility: hidden;` and not `display: none`. This will allow `offset` with `visibility` and `sticky` to work more seamlessly. `hidden image` will still remain `display: none;`
+- **Button** - Added variables for configuring `disabled` background image and box shadow.
+
 ### Version 2.0.6 - July 22, 2015
 
 - **List**- Fixed issue where using an image variation like `ui image label` as a direct child of an `item` would remove right padding [#2691](https://github.com/Semantic-Org/Semantic-UI/issues/2691)
@@ -28,7 +34,7 @@
 
 ### Version 1.11.0 - March 3, 2015
 
-- **Visibiliity** - Attach callbacks to elements visibility conditions like `top visible` `bottom visible`, `passing`. Useful for things like: image lazy loading, infinite scroll content, and recording tracking metrics.
+- **Visibility** - Attach callbacks to elements visibility conditions like `top visible` `bottom visible`, `passing`. Useful for things like: image lazy loading, infinite scroll content, and recording tracking metrics.
 
 ### Version 1.10.0 - February 23, 2015
 
