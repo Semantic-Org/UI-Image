@@ -1,3 +1,7 @@
+### Version 2.2.3 - August 21, 2016
+
+- **Dropdown** - Using `search selection with `selectOnKeydown` and text content that includes html, will not apply html content (like images) to the text until dropdown blur, making sure that content can align correctly with the partial search content of the search input (which cannot include HTML)
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Visibility** - Added `onLoad` and `onAllLoaded` callback for `type: 'image'` visibility
