@@ -1,3 +1,7 @@
+### Version 2.3.0 - Feb 19, 2018
+
+- **Images / Transition** - Fixed issue where `ui images` would show nested images with `transition hidden` as block (Fixes sequential img animation demo in docs)
+
 ### Version 2.2.11 - July 11, 2017
 
 - **Dropdown** - Improved spacing on `image` inside `menu item` and for selected `text`
