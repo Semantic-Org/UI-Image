@@ -1,4 +1,8 @@
-### Version 2.3.0 - Feb 19, 2018
+### Version 2.3.1 - Mar 19, 2018
+
+- **Image** - Fixes margin being applied twice to `ui images` [#6224](https://github.com/Semantic-Org/Semantic-UI/issues/6224)
+
+### Version 2.3.0 - Feb 20, 2018
 
 - **Images / Transition** - Fixed issue where `ui images` would show nested images with `transition hidden` as block (Fixes sequential img animation demo in docs)
 
