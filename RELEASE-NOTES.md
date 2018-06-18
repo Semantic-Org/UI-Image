@@ -1,4 +1,4 @@
-### Version 2.3.1 - Mar 19, 2018
+### Version 2.3.1 - Mar 18, 2018
 
 - **Image** - Fixes margin being applied twice to `ui images` [#6224](https://github.com/Semantic-Org/Semantic-UI/issues/6224)
 
